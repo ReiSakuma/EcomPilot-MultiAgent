@@ -13,6 +13,7 @@ dependencies = [
   "langgraph==1.2.11",
   "langgraph-checkpoint-sqlite==3.1.1",
   "pydantic>=2.8.0",
+  "sqlglot>=25.0,<31.0",
   "uvicorn>=0.30.0",
 ]
 
