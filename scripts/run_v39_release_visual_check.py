@@ -1,0 +1,187 @@
+from __future__ import annotations
+
+import json
+import os
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+
+from playwright.sync_api import sync_playwright
+
+
+ROOT = Path(__file__).resolve().parents[1]
+BASE_URL = os.getenv("ECOMPILOT_VISUAL_BASE_URL", "http://127.0.0.1:8243").rstrip("/")
+OUTPUT_DIR = ROOT / "reports" / "browser" / "v39"
+VIEWPORTS = {
+    "desktop": {"width": 1536, "height": 960},
+    "mobile": {"width": 390, "height": 844},
+}
+
+
+def main() -> None:
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    results: list[dict[str, object]] = []
+    console_errors: list[str] = []
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(headless=True)
+        try:
+            for name, viewport in VIEWPORTS.items():
+                page = browser.new_page(viewport=viewport)
+                page.on(
+                    "console",
+                    lambda message: console_errors.append(message.text)
+                    if message.type == "error"
+                    else None,
+                )
+                page.goto(f"{BASE_URL}/ops", wait_until="networkidle")
+                page.get_by_role("button", name="Release", exact=True).click()
+                page.wait_for_function(
+                    "document.querySelector('#releaseStats').textContent.includes('故障注入')"
+                )
+                release_text = page.locator("#release").inner_text()
+                layout = page.evaluate(
+                    """() => ({
+                      bodyWidth: document.body.scrollWidth,
+                      viewportWidth: window.innerWidth,
+                      activeViewWidth: document.querySelector('#release').getBoundingClientRect().width,
+                      threatRows: document.querySelectorAll('#threatRows tr').length,
+                      evidenceRows: document.querySelectorAll('#evidenceRows tr').length
+                    })"""
+                )
+                screenshot = OUTPUT_DIR / f"release_{name}.png"
+                page.screenshot(path=str(screenshot), full_page=True)
+                page.get_by_role("button", name="Reliability", exact=True).click()
+                page.wait_for_function(
+                    "document.querySelector('#reliabilityStats').textContent.includes('任务重试预算')"
+                )
+                reliability_text = page.locator("#reliability").inner_text()
+                reliability_screenshot = OUTPUT_DIR / f"reliability_{name}.png"
+                page.screenshot(path=str(reliability_screenshot), full_page=True)
+                conversation_response = page.request.post(
+                    f"{BASE_URL}/api/copilot/conversations",
+                    data={"title": f"V39 context visual {name}"},
+                )
+                if not conversation_response.ok:
+                    raise RuntimeError("failed to create context visual conversation")
+                conversation_id = conversation_response.json()["conversation_id"]
+                page.evaluate(
+                    "conversationId => { lastState = {conversation_id: conversationId}; }",
+                    conversation_id,
+                )
+                page.get_by_role("button", name="Context", exact=True).click()
+                page.wait_for_function(
+                    "document.querySelector('#contextStats').textContent.includes('写入授权')"
+                )
+                context_text = page.locator("#context").inner_text()
+                context_screenshot = OUTPUT_DIR / f"context_{name}.png"
+                page.screenshot(path=str(context_screenshot), full_page=True)
+                page.get_by_role("button", name="Concurrency", exact=True).click()
+                page.wait_for_function(
+                    "document.querySelector('#concurrencyStats').textContent.includes('确认业务效果')"
+                )
+                concurrency_text = page.locator("#concurrency").inner_text()
+                concurrency_screenshot = OUTPUT_DIR / f"concurrency_{name}.png"
+                page.screenshot(path=str(concurrency_screenshot), full_page=True)
+                page.get_by_role("button", name="Resilience", exact=True).click()
+                page.wait_for_function(
+                    "document.querySelector('#resilienceStats').textContent.includes('故障恢复')"
+                )
+                resilience_text = page.locator("#resilience").inner_text()
+                resilience_screenshot = OUTPUT_DIR / f"resilience_{name}.png"
+                page.screenshot(path=str(resilience_screenshot), full_page=True)
+                results.append(
+                    {
+                        "viewport": name,
+                        "release_evidence_visible": all(
+                            value in release_text
+                            for value in (
+                                "故障注入",
+                                "13/13",
+                                "SHA-256 通过",
+                                "MVP 质量指标",
+                                "协议清单",
+                                "未声明生产就绪",
+                            )
+                        ),
+                        "reliability_evidence_visible": all(
+                            value in reliability_text
+                            for value in (
+                                "任务重试预算",
+                                "熔断状态",
+                                "死信与人工关注",
+                                "工具生命周期协议",
+                                "当前边界",
+                            )
+                        ),
+                        "context_evidence_visible": all(
+                            value in context_text
+                            for value in (
+                                "摘要信任", "写入授权", "上下文占用",
+                                "预算决策", "安全边界",
+                            )
+                        ),
+                        "concurrency_evidence_visible": all(
+                            value in concurrency_text
+                            for value in (
+                                "队列等待", "活跃租约", "确认业务效果",
+                                "Worker 隔离池", "Saga 执行记录", "并发边界",
+                            )
+                        ),
+                        "resilience_evidence_visible": all(
+                            value in resilience_text
+                            for value in (
+                                "故障恢复", "峰值吞吐", "跨租户泄漏",
+                                "混沌演练", "容量基线", "SLO 与告警", "生产边界",
+                            )
+                        ),
+                        "layout": layout,
+                        "screenshot": str(screenshot),
+                        "screenshot_bytes": screenshot.stat().st_size,
+                        "reliability_screenshot": str(reliability_screenshot),
+                        "reliability_screenshot_bytes": reliability_screenshot.stat().st_size,
+                        "context_screenshot": str(context_screenshot),
+                        "context_screenshot_bytes": context_screenshot.stat().st_size,
+                        "concurrency_screenshot": str(concurrency_screenshot),
+                        "concurrency_screenshot_bytes": concurrency_screenshot.stat().st_size,
+                        "resilience_screenshot": str(resilience_screenshot),
+                        "resilience_screenshot_bytes": resilience_screenshot.stat().st_size,
+                    }
+                )
+                page.close()
+        finally:
+            browser.close()
+
+    for result in results:
+        layout = result["layout"]
+        result["passed"] = (
+            result["release_evidence_visible"]
+            and result["reliability_evidence_visible"]
+            and result["context_evidence_visible"]
+            and result["concurrency_evidence_visible"]
+            and result["resilience_evidence_visible"]
+            and layout["bodyWidth"] <= layout["viewportWidth"]
+            and layout["activeViewWidth"] > 0
+            and layout["threatRows"] == 13
+            and layout["evidenceRows"] >= 20
+            and result["screenshot_bytes"] > 10_000
+            and result["reliability_screenshot_bytes"] > 10_000
+            and result["context_screenshot_bytes"] > 10_000
+            and result["concurrency_screenshot_bytes"] > 10_000
+            and result["resilience_screenshot_bytes"] > 10_000
+        )
+    report = {
+        "version": "v39-chaos-readiness",
+        "passed": all(item["passed"] for item in results) and not console_errors,
+        "console_errors": console_errors,
+        "results": results,
+    }
+    output = OUTPUT_DIR / "visual_report.json"
+    output.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    print(json.dumps(report, ensure_ascii=False, indent=2))
+    if not report["passed"]:
+        raise SystemExit(1)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,3011 @@
+[
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_001",
+    "name": "AirBeat Lite",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 179,
+    "monthly_sales": 4200,
+    "features": [
+      "低延迟",
+      "长续航",
+      "学生价位",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_002",
+    "name": "Campus Buds Pro",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "宿舍"
+    ],
+    "price": 209,
+    "monthly_sales": 3100,
+    "features": [
+      "主动降噪",
+      "通话清晰",
+      "续航强",
+      "游戏模式"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_003",
+    "name": "StudyPods S2",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "游戏"
+    ],
+    "price": 199,
+    "monthly_sales": 5200,
+    "features": [
+      "低延迟",
+      "轻量佩戴",
+      "游戏模式",
+      "蓝牙5.3"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_004",
+    "name": "DormCall Mini",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 159,
+    "monthly_sales": 2800,
+    "features": [
+      "通话降噪",
+      "轻量佩戴",
+      "宿舍通话",
+      "快充"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_005",
+    "name": "GameBeat G1",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "游戏"
+    ],
+    "price": 229,
+    "monthly_sales": 3600,
+    "features": [
+      "低延迟",
+      "游戏模式",
+      "强低音",
+      "长续航"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_006",
+    "name": "QuietBuds Neo",
+    "category": "无线耳机",
+    "target_audience": [
+      "通勤",
+      "学生"
+    ],
+    "price": 239,
+    "monthly_sales": 1800,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "通话清晰",
+      "长续航"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_007",
+    "name": "ClassMate TWS",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 149,
+    "monthly_sales": 6100,
+    "features": [
+      "学生价位",
+      "网课耳机",
+      "轻量佩戴",
+      "快充"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_008",
+    "name": "BassPods Youth",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 189,
+    "monthly_sales": 2700,
+    "features": [
+      "强低音",
+      "长续航",
+      "蓝牙5.3",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_009",
+    "name": "ClearTalk C2",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 199,
+    "monthly_sales": 3300,
+    "features": [
+      "通话清晰",
+      "通话降噪",
+      "轻量佩戴",
+      "长续航"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_010",
+    "name": "PocketPods SE",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 129,
+    "monthly_sales": 7400,
+    "features": [
+      "学生价位",
+      "小巧便携",
+      "快充",
+      "蓝牙5.3"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_011",
+    "name": "DelayZero X",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "游戏"
+    ],
+    "price": 219,
+    "monthly_sales": 2600,
+    "features": [
+      "低延迟",
+      "游戏模式",
+      "佩戴稳固",
+      "长续航"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_012",
+    "name": "LibraryPods Air",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 169,
+    "monthly_sales": 3900,
+    "features": [
+      "轻量佩戴",
+      "低漏音",
+      "长续航",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_013",
+    "name": "Nova Buds 13",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 900,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_014",
+    "name": "Echo Buds 14",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 1279,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_015",
+    "name": "Pulse Buds 15",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 1658,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_016",
+    "name": "Cloud Buds 16",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 2037,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_017",
+    "name": "Urban Buds 17",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 2416,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_018",
+    "name": "Melo Buds 18",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 2795,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_019",
+    "name": "Aero Buds 19",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 3174,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_020",
+    "name": "Comet Buds 20",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 3553,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_021",
+    "name": "Nova Pods 21",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 3932,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_022",
+    "name": "Echo Pods 22",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 4311,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_023",
+    "name": "Pulse Pods 23",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 189,
+    "monthly_sales": 4690,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_024",
+    "name": "Cloud Pods 24",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 189,
+    "monthly_sales": 5069,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_025",
+    "name": "Urban Pods 25",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 5448,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_026",
+    "name": "Melo Pods 26",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 5827,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_027",
+    "name": "Aero Pods 27",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 6206,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_028",
+    "name": "Comet Pods 28",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 6585,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_029",
+    "name": "Nova Air 29",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 6964,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_030",
+    "name": "Echo Air 30",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 7343,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_031",
+    "name": "Pulse Air 31",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 1222,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_032",
+    "name": "Cloud Air 32",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 1601,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_033",
+    "name": "Urban Air 33",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 1980,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_034",
+    "name": "Melo Air 34",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 2359,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_035",
+    "name": "Aero Air 35",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 189,
+    "monthly_sales": 2738,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_036",
+    "name": "Comet Air 36",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 189,
+    "monthly_sales": 3117,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_037",
+    "name": "Nova Mini 37",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 3496,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_038",
+    "name": "Echo Mini 38",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 3875,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_039",
+    "name": "Pulse Mini 39",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 4254,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_040",
+    "name": "Cloud Mini 40",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 4633,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_041",
+    "name": "Urban Mini 41",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 5012,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_042",
+    "name": "Melo Mini 42",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 5391,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_043",
+    "name": "Aero Mini 43",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 5770,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_044",
+    "name": "Comet Mini 44",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 6149,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_045",
+    "name": "Nova Neo 45",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 6528,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_046",
+    "name": "Echo Neo 46",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 6907,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_047",
+    "name": "Pulse Neo 47",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 189,
+    "monthly_sales": 7286,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_048",
+    "name": "Cloud Neo 48",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 189,
+    "monthly_sales": 1165,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_049",
+    "name": "Urban Neo 49",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 1544,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_050",
+    "name": "Melo Neo 50",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 1923,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_051",
+    "name": "Aero Neo 51",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 2302,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_052",
+    "name": "Comet Neo 52",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 2681,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_053",
+    "name": "Nova Lite 53",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 3060,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_054",
+    "name": "Echo Lite 54",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 3439,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_055",
+    "name": "Pulse Lite 55",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 3818,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_056",
+    "name": "Cloud Lite 56",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 4197,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_057",
+    "name": "Urban Lite 57",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 4576,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_058",
+    "name": "Melo Lite 58",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 4955,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_059",
+    "name": "Aero Lite 59",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 189,
+    "monthly_sales": 5334,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_060",
+    "name": "Comet Lite 60",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 189,
+    "monthly_sales": 5713,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_061",
+    "name": "Nova Go 61",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 6092,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_062",
+    "name": "Echo Go 62",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 6471,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_063",
+    "name": "Pulse Go 63",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 6850,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_064",
+    "name": "Cloud Go 64",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 7229,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_065",
+    "name": "Urban Go 65",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 1108,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_066",
+    "name": "Melo Go 66",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 1487,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_067",
+    "name": "Aero Go 67",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 1866,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_068",
+    "name": "Comet Go 68",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 2245,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_069",
+    "name": "Nova S 69",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 2624,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_070",
+    "name": "Echo S 70",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 3003,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_071",
+    "name": "Pulse S 71",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 189,
+    "monthly_sales": 3382,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_072",
+    "name": "Cloud S 72",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 189,
+    "monthly_sales": 3761,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_073",
+    "name": "Urban S 73",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 4140,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_074",
+    "name": "Melo S 74",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 4519,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_075",
+    "name": "Aero S 75",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 4898,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_076",
+    "name": "Comet S 76",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 5277,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_077",
+    "name": "Nova Buds 77",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 5656,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_078",
+    "name": "Echo Buds 78",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 6035,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_079",
+    "name": "Pulse Buds 79",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 6414,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_080",
+    "name": "Cloud Buds 80",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 6793,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_081",
+    "name": "Urban Buds 81",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 7172,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_082",
+    "name": "Melo Buds 82",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 1051,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_083",
+    "name": "Aero Buds 83",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 189,
+    "monthly_sales": 1430,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_084",
+    "name": "Comet Buds 84",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 189,
+    "monthly_sales": 1809,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_085",
+    "name": "Nova Pods 85",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 139,
+    "monthly_sales": 2188,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_086",
+    "name": "Echo Pods 86",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 239,
+    "monthly_sales": 2567,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_087",
+    "name": "Pulse Pods 87",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 149,
+    "monthly_sales": 2946,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_088",
+    "name": "Cloud Pods 88",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 229,
+    "monthly_sales": 3325,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_089",
+    "name": "Urban Pods 89",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "运动"
+    ],
+    "price": 159,
+    "monthly_sales": 3704,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_090",
+    "name": "Melo Pods 90",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 219,
+    "monthly_sales": 4083,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_091",
+    "name": "Aero Pods 91",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "通勤"
+    ],
+    "price": 169,
+    "monthly_sales": 4462,
+    "features": [
+      "主动降噪",
+      "通透模式",
+      "长续航",
+      "佩戴稳固"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_092",
+    "name": "Comet Pods 92",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "网课"
+    ],
+    "price": 209,
+    "monthly_sales": 4841,
+    "features": [
+      "低漏音",
+      "蓝牙5.3",
+      "轻量佩戴",
+      "学生价位"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_093",
+    "name": "Nova Air 93",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "音乐"
+    ],
+    "price": 179,
+    "monthly_sales": 5220,
+    "features": [
+      "低延迟",
+      "蓝牙5.3",
+      "长续航",
+      "轻量佩戴"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "earbud_094",
+    "name": "Echo Air 94",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "自习"
+    ],
+    "price": 199,
+    "monthly_sales": 5599,
+    "features": [
+      "通话降噪",
+      "快充",
+      "通话清晰",
+      "小巧便携"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "entry",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "clearance",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "earbud_095",
+    "name": "Campus Buds 旧款清仓",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "预算敏感"
+    ],
+    "price": 59,
+    "original_price": 159,
+    "monthly_sales": 360,
+    "features": [
+      "蓝牙5.1",
+      "基础续航",
+      "轻量佩戴",
+      "旧款清仓"
+    ],
+    "price_explanation": "旧款停产清仓，库存有限且不再补货",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "refurbished",
+    "brand_tier": "entry",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "refurbished_clearance",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "earbud_096",
+    "name": "RenewPods R1 官方翻新",
+    "category": "无线耳机",
+    "target_audience": [
+      "学生",
+      "入门"
+    ],
+    "price": 49,
+    "original_price": 199,
+    "monthly_sales": 210,
+    "features": [
+      "蓝牙5.2",
+      "快充",
+      "官方翻新",
+      "六个月保修"
+    ],
+    "price_explanation": "官方翻新旧款，存在轻微外观瑕疵并缩短保修期",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "premium",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "earbud_097",
+    "name": "Auraluxe ANC Studio",
+    "category": "无线耳机",
+    "target_audience": [
+      "商务",
+      "音乐"
+    ],
+    "price": 699,
+    "monthly_sales": 620,
+    "features": [
+      "自适应主动降噪",
+      "空间音频",
+      "高清编解码",
+      "两年保修"
+    ],
+    "price_explanation": "高端品牌、自适应降噪、空间音频和延长保修共同支撑溢价",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "luxury",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "earbud_098",
+    "name": "Reference Pods Signature",
+    "category": "无线耳机",
+    "target_audience": [
+      "发烧友",
+      "创作者"
+    ],
+    "price": 899,
+    "monthly_sales": 180,
+    "features": [
+      "双单元",
+      "无损音频",
+      "个性化听感",
+      "三年保修"
+    ],
+    "price_explanation": "旗舰声学结构、定制听感服务和三年保修能够解释高价",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "accessory",
+    "package_type": "accessory_pack",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "dirty_outlier",
+    "expected_statistical_flag": true,
+    "expected_excluded": true,
+    "expected_market_layer": "excluded",
+    "id": "earbud_099",
+    "name": "硅胶耳塞套三对装（误归类）",
+    "category": "无线耳机",
+    "target_audience": [
+      "配件用户"
+    ],
+    "price": 9.9,
+    "monthly_sales": 4500,
+    "features": [
+      "耳塞套",
+      "三对装",
+      "替换配件"
+    ],
+    "data_quality_flags": [
+      "category_mismatch",
+      "non_product_accessory"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "earbuds",
+    "package_type": "single_product",
+    "sales_context": "data_import",
+    "currency": "CNY",
+    "price_unit": "fen_mislabeled_as_yuan",
+    "test_case": "dirty_outlier",
+    "expected_statistical_flag": true,
+    "expected_excluded": true,
+    "expected_market_layer": "excluded",
+    "id": "earbud_100",
+    "name": "Imported Buds Price Unit Error",
+    "category": "无线耳机",
+    "target_audience": [
+      "通勤"
+    ],
+    "price": 9999,
+    "monthly_sales": 0,
+    "features": [
+      "蓝牙5.3",
+      "快充"
+    ],
+    "data_quality_flags": [
+      "currency_unit_mismatch",
+      "suspected_import_error"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  }
+]

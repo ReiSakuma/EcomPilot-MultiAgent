@@ -1,0 +1,9 @@
+[
+  {"case_id": "approval_resume", "expected": "completed_browser_only"},
+  {"case_id": "side_effect_retry", "expected": "completed_with_idempotent_replay"},
+  {"case_id": "constraint_replan", "expected": "completed_from_strategy"},
+  {"case_id": "stale_checkpoint", "expected": "StaleCheckpointError"},
+  {"case_id": "completed_task_rejected", "expected": "RecoveryNotAllowedError"},
+  {"case_id": "invalid_constraint_patch", "expected": "RecoveryValidationError"},
+  {"case_id": "concurrent_resume_guard", "expected": "RecoveryConflictError"}
+]

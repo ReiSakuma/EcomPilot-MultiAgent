@@ -1,0 +1,44 @@
+{
+  "runtime": {
+    "backend": "playwright",
+    "base_url": "http://127.0.0.1:8131",
+    "headless": true,
+    "timeout_ms": 15000,
+    "ticket_ttl_seconds": 60,
+    "playwright_package_installed": true,
+    "chromium_installed": true,
+    "chromium_path": "/home/theburningmuses/.cache/ms-playwright/chromium-1234/chrome-linux64/chrome",
+    "real_browser_enabled": true,
+    "ready": true,
+    "issues": []
+  },
+  "total": 4,
+  "passed": 4,
+  "pass_rate": 1.0,
+  "case_results": [
+    {
+      "case_id": "approved_execution",
+      "expected": "verified_backend_execution",
+      "observed": "verified_backend_execution",
+      "passed": true
+    },
+    {
+      "case_id": "approval_block",
+      "expected": "waiting_without_side_effect",
+      "observed": "waiting_without_side_effect",
+      "passed": true
+    },
+    {
+      "case_id": "idempotent_replay",
+      "expected": "single_side_effect",
+      "observed": "single_side_effect",
+      "passed": true
+    },
+    {
+      "case_id": "ticket_integrity",
+      "expected": "mismatch_and_replay_blocked",
+      "observed": "mismatch_and_replay_blocked",
+      "passed": true
+    }
+  ]
+}

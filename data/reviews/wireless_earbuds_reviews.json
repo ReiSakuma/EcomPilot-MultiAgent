@@ -1,0 +1,1402 @@
+[
+  {
+    "product_id": "earbud_001",
+    "rating": 4,
+    "text": "延迟低，打游戏还可以，就是耳塞戴久了有点胀。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_001",
+    "rating": 3,
+    "text": "续航宣传挺长，实际用下来比预期短一些。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_002",
+    "rating": 4,
+    "text": "降噪不错，宿舍开会通话清楚，但 app 设置有点复杂。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_002",
+    "rating": 3,
+    "text": "偶尔会断连，重新放回盒子才能恢复。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_003",
+    "rating": 5,
+    "text": "游戏模式延迟很低，耳机也比较轻。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_003",
+    "rating": 3,
+    "text": "充电盒外壳容易刮花，低频一般。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_004",
+    "rating": 4,
+    "text": "网课收音清楚，价格合适，佩戴还算舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_004",
+    "rating": 2,
+    "text": "连接稳定性一般，走远一点就卡。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_005",
+    "rating": 4,
+    "text": "低延迟和低音不错，但耳机偏大。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_005",
+    "rating": 3,
+    "text": "续航还可以，佩戴舒适度一般。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_006",
+    "rating": 4,
+    "text": "降噪效果在这个价位还行，通话比较清楚。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_006",
+    "rating": 3,
+    "text": "价格偏高，学生党有点犹豫。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_007",
+    "rating": 5,
+    "text": "便宜好用，上网课足够，戴久了不压耳。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_007",
+    "rating": 3,
+    "text": "音质普通，连接偶尔不稳定。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_008",
+    "rating": 4,
+    "text": "低音强，续航不错，适合听歌。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_008",
+    "rating": 3,
+    "text": "戴着跑步还行，但耳塞尺寸不太适合所有人。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_009",
+    "rating": 4,
+    "text": "通话清晰，宿舍开会对方听得清。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_009",
+    "rating": 3,
+    "text": "降噪一般，地铁上还是有噪音。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_010",
+    "rating": 5,
+    "text": "价格低，充电快，放包里很方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_010",
+    "rating": 2,
+    "text": "续航缩水明显，连接有时慢。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_011",
+    "rating": 4,
+    "text": "打游戏延迟低，佩戴也稳。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_011",
+    "rating": 3,
+    "text": "耳机仓有点大，携带不太方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_012",
+    "rating": 4,
+    "text": "自习室低漏音很好，戴着轻。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_012",
+    "rating": 3,
+    "text": "音量偏小，户外不够用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_013",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_013",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_014",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_014",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_015",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_015",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_016",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_016",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_017",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_017",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_018",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_018",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_019",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_019",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_020",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_020",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_021",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_021",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_022",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_022",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_023",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_023",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_024",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_024",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_025",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_025",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_026",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_026",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_027",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_027",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_028",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_028",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_029",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_029",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_030",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_030",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_031",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_031",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_032",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_032",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_033",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_033",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_034",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_034",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_035",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_035",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_036",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_036",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_037",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_037",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_038",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_038",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_039",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_039",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_040",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_040",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_041",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_041",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_042",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_042",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_043",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_043",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_044",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_044",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_045",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_045",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_046",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_046",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_047",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_047",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_048",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_048",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_049",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_049",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_050",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_050",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_051",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_051",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_052",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_052",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_053",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_053",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_054",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_054",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_055",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_055",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_056",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_056",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_057",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_057",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_058",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_058",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_059",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_059",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_060",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_060",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_061",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_061",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_062",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_062",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_063",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_063",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_064",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_064",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_065",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_065",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_066",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_066",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_067",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_067",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_068",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_068",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_069",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_069",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_070",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_070",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_071",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_071",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_072",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_072",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_073",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_073",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_074",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_074",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_075",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_075",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_076",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_076",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_077",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_077",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_078",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_078",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_079",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_079",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_080",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_080",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_081",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_081",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_082",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_082",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_083",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_083",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_084",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_084",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_085",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_085",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_086",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_086",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_087",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_087",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_088",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_088",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_089",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_089",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_090",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_090",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_091",
+    "rating": 4,
+    "text": "蓝牙连接速度快，声音均衡，收纳盒携带方便。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_091",
+    "rating": 2,
+    "text": "标称续航较长，但高音量使用时续航比预期短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_092",
+    "rating": 5,
+    "text": "长时间听歌基本稳定，触控操作简单。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_092",
+    "rating": 3,
+    "text": "降噪一般，地铁等噪音环境仍能听到背景声。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_093",
+    "rating": 4,
+    "text": "连接稳定，日常通勤使用方便，续航表现符合预期。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_093",
+    "rating": 2,
+    "text": "偶尔连接有时慢，复杂环境下会有短暂卡顿。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_094",
+    "rating": 5,
+    "text": "佩戴比较轻，网课和通话声音清楚，快充很实用。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_094",
+    "rating": 3,
+    "text": "耳塞戴久后佩戴舒适度一般，希望增加更多尺寸。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_095",
+    "rating": 4,
+    "text": "清仓价很划算，基础听歌够用，但旧款协议和续航比较一般。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_095",
+    "rating": 3,
+    "text": "库存不多，售后说明清楚，适合作为备用耳机。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_096",
+    "rating": 4,
+    "text": "官方翻新价格低，功能正常，外壳有轻微划痕。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_096",
+    "rating": 3,
+    "text": "保修只有六个月，适合预算有限的用户。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_097",
+    "rating": 5,
+    "text": "自适应降噪和空间音频效果明显，售后期限也更长。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_097",
+    "rating": 4,
+    "text": "价格高，但通话、降噪和做工符合高端定位。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_098",
+    "rating": 5,
+    "text": "双单元解析力好，个性化听感服务适合发烧友。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_098",
+    "rating": 4,
+    "text": "旗舰声音不错，不过普通通勤用户没有必要买这么贵。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_099",
+    "rating": 2,
+    "text": "这只是替换耳塞套，不是完整耳机，分类明显不对。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_099",
+    "rating": 1,
+    "text": "下单前才发现是配件，不能拿来和耳机整机比较。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_100",
+    "rating": 1,
+    "text": "页面价格单位疑似导入错误，无法按当前标价购买。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "earbud_100",
+    "rating": 1,
+    "text": "商品信息不完整，价格看起来像把分误当成了元。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  }
+]

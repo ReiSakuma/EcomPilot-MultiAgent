@@ -1,0 +1,3010 @@
+[
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_001",
+    "name": "KeyNova 98键 K001",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 159,
+    "monthly_sales": 500,
+    "features": [
+      "98键",
+      "线性轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_002",
+    "name": "SwitchLab 87键 K002",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 499,
+    "monthly_sales": 793,
+    "features": [
+      "87键",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_003",
+    "name": "CodeDeck 75配列 K003",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 179,
+    "monthly_sales": 1086,
+    "features": [
+      "75配列",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_004",
+    "name": "GameType 68键 K004",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 479,
+    "monthly_sales": 1379,
+    "features": [
+      "68键",
+      "线性轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_005",
+    "name": "OfficeKey 104键 K005",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 199,
+    "monthly_sales": 1672,
+    "features": [
+      "104键",
+      "线性轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_006",
+    "name": "PixelBoard 98键 K006",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 459,
+    "monthly_sales": 1965,
+    "features": [
+      "98键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_007",
+    "name": "KeyNova 87键 K007",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 219,
+    "monthly_sales": 2258,
+    "features": [
+      "87键",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_008",
+    "name": "SwitchLab 75配列 K008",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 439,
+    "monthly_sales": 2551,
+    "features": [
+      "75配列",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_009",
+    "name": "CodeDeck 68键 K009",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 239,
+    "monthly_sales": 2844,
+    "features": [
+      "68键",
+      "段落轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_010",
+    "name": "GameType 104键 K010",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 419,
+    "monthly_sales": 3137,
+    "features": [
+      "104键",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_011",
+    "name": "OfficeKey 98键 K011",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 259,
+    "monthly_sales": 3430,
+    "features": [
+      "98键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_012",
+    "name": "PixelBoard 87键 K012",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 399,
+    "monthly_sales": 3723,
+    "features": [
+      "87键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_013",
+    "name": "KeyNova 75配列 K013",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 279,
+    "monthly_sales": 4016,
+    "features": [
+      "75配列",
+      "静音轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_014",
+    "name": "SwitchLab 68键 K014",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 379,
+    "monthly_sales": 4309,
+    "features": [
+      "68键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_015",
+    "name": "CodeDeck 104键 K015",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 299,
+    "monthly_sales": 4602,
+    "features": [
+      "104键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_016",
+    "name": "GameType 98键 K016",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 359,
+    "monthly_sales": 4895,
+    "features": [
+      "98键",
+      "提前触发轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_017",
+    "name": "OfficeKey 87键 K017",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 319,
+    "monthly_sales": 5188,
+    "features": [
+      "87键",
+      "提前触发轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_018",
+    "name": "PixelBoard 75配列 K018",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 339,
+    "monthly_sales": 5481,
+    "features": [
+      "75配列",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_019",
+    "name": "KeyNova 68键 K019",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 159,
+    "monthly_sales": 574,
+    "features": [
+      "68键",
+      "提前触发轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_020",
+    "name": "SwitchLab 104键 K020",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 499,
+    "monthly_sales": 867,
+    "features": [
+      "104键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_021",
+    "name": "CodeDeck 98键 K021",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 179,
+    "monthly_sales": 1160,
+    "features": [
+      "98键",
+      "线性轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_022",
+    "name": "GameType 87键 K022",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 479,
+    "monthly_sales": 1453,
+    "features": [
+      "87键",
+      "线性轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_023",
+    "name": "OfficeKey 75配列 K023",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 199,
+    "monthly_sales": 1746,
+    "features": [
+      "75配列",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_024",
+    "name": "PixelBoard 68键 K024",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 459,
+    "monthly_sales": 2039,
+    "features": [
+      "68键",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_025",
+    "name": "KeyNova 104键 K025",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 219,
+    "monthly_sales": 2332,
+    "features": [
+      "104键",
+      "线性轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_026",
+    "name": "SwitchLab 98键 K026",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 439,
+    "monthly_sales": 2625,
+    "features": [
+      "98键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_027",
+    "name": "CodeDeck 87键 K027",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 239,
+    "monthly_sales": 2918,
+    "features": [
+      "87键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_028",
+    "name": "GameType 75配列 K028",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 419,
+    "monthly_sales": 3211,
+    "features": [
+      "75配列",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_029",
+    "name": "OfficeKey 68键 K029",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 259,
+    "monthly_sales": 3504,
+    "features": [
+      "68键",
+      "段落轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_030",
+    "name": "PixelBoard 104键 K030",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 399,
+    "monthly_sales": 3797,
+    "features": [
+      "104键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_031",
+    "name": "KeyNova 98键 K031",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 279,
+    "monthly_sales": 4090,
+    "features": [
+      "98键",
+      "静音轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_032",
+    "name": "SwitchLab 87键 K032",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 379,
+    "monthly_sales": 4383,
+    "features": [
+      "87键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_033",
+    "name": "CodeDeck 75配列 K033",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 299,
+    "monthly_sales": 4676,
+    "features": [
+      "75配列",
+      "静音轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_034",
+    "name": "GameType 68键 K034",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 359,
+    "monthly_sales": 4969,
+    "features": [
+      "68键",
+      "静音轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_035",
+    "name": "OfficeKey 104键 K035",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 319,
+    "monthly_sales": 5262,
+    "features": [
+      "104键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_036",
+    "name": "PixelBoard 98键 K036",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 339,
+    "monthly_sales": 5555,
+    "features": [
+      "98键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_037",
+    "name": "KeyNova 87键 K037",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 159,
+    "monthly_sales": 648,
+    "features": [
+      "87键",
+      "提前触发轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_038",
+    "name": "SwitchLab 75配列 K038",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 499,
+    "monthly_sales": 941,
+    "features": [
+      "75配列",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_039",
+    "name": "CodeDeck 68键 K039",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 179,
+    "monthly_sales": 1234,
+    "features": [
+      "68键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_040",
+    "name": "GameType 104键 K040",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 479,
+    "monthly_sales": 1527,
+    "features": [
+      "104键",
+      "提前触发轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_041",
+    "name": "OfficeKey 98键 K041",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 199,
+    "monthly_sales": 1820,
+    "features": [
+      "98键",
+      "线性轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_042",
+    "name": "PixelBoard 87键 K042",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 459,
+    "monthly_sales": 2113,
+    "features": [
+      "87键",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_043",
+    "name": "KeyNova 75配列 K043",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 219,
+    "monthly_sales": 2406,
+    "features": [
+      "75配列",
+      "线性轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_044",
+    "name": "SwitchLab 68键 K044",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 439,
+    "monthly_sales": 2699,
+    "features": [
+      "68键",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_045",
+    "name": "CodeDeck 104键 K045",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 239,
+    "monthly_sales": 2992,
+    "features": [
+      "104键",
+      "线性轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_046",
+    "name": "GameType 98键 K046",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 419,
+    "monthly_sales": 3285,
+    "features": [
+      "98键",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_047",
+    "name": "OfficeKey 87键 K047",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 259,
+    "monthly_sales": 3578,
+    "features": [
+      "87键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_048",
+    "name": "PixelBoard 75配列 K048",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 399,
+    "monthly_sales": 3871,
+    "features": [
+      "75配列",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_049",
+    "name": "KeyNova 68键 K049",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 279,
+    "monthly_sales": 4164,
+    "features": [
+      "68键",
+      "段落轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_050",
+    "name": "SwitchLab 104键 K050",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 379,
+    "monthly_sales": 4457,
+    "features": [
+      "104键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_051",
+    "name": "CodeDeck 98键 K051",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 299,
+    "monthly_sales": 4750,
+    "features": [
+      "98键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_052",
+    "name": "GameType 87键 K052",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 359,
+    "monthly_sales": 5043,
+    "features": [
+      "87键",
+      "静音轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_053",
+    "name": "OfficeKey 75配列 K053",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 319,
+    "monthly_sales": 5336,
+    "features": [
+      "75配列",
+      "静音轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_054",
+    "name": "PixelBoard 68键 K054",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 339,
+    "monthly_sales": 5629,
+    "features": [
+      "68键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_055",
+    "name": "KeyNova 104键 K055",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 159,
+    "monthly_sales": 722,
+    "features": [
+      "104键",
+      "静音轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_056",
+    "name": "SwitchLab 98键 K056",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 499,
+    "monthly_sales": 1015,
+    "features": [
+      "98键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_057",
+    "name": "CodeDeck 87键 K057",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 179,
+    "monthly_sales": 1308,
+    "features": [
+      "87键",
+      "提前触发轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_058",
+    "name": "GameType 75配列 K058",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 479,
+    "monthly_sales": 1601,
+    "features": [
+      "75配列",
+      "提前触发轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_059",
+    "name": "OfficeKey 68键 K059",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 199,
+    "monthly_sales": 1894,
+    "features": [
+      "68键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_060",
+    "name": "PixelBoard 104键 K060",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 459,
+    "monthly_sales": 2187,
+    "features": [
+      "104键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_061",
+    "name": "KeyNova 98键 K061",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 219,
+    "monthly_sales": 2480,
+    "features": [
+      "98键",
+      "线性轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_062",
+    "name": "SwitchLab 87键 K062",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 439,
+    "monthly_sales": 2773,
+    "features": [
+      "87键",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_063",
+    "name": "CodeDeck 75配列 K063",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 239,
+    "monthly_sales": 3066,
+    "features": [
+      "75配列",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_064",
+    "name": "GameType 68键 K064",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 419,
+    "monthly_sales": 3359,
+    "features": [
+      "68键",
+      "线性轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_065",
+    "name": "OfficeKey 104键 K065",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 259,
+    "monthly_sales": 3652,
+    "features": [
+      "104键",
+      "线性轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_066",
+    "name": "PixelBoard 98键 K066",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 399,
+    "monthly_sales": 3945,
+    "features": [
+      "98键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_067",
+    "name": "KeyNova 87键 K067",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 279,
+    "monthly_sales": 4238,
+    "features": [
+      "87键",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_068",
+    "name": "SwitchLab 75配列 K068",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 379,
+    "monthly_sales": 4531,
+    "features": [
+      "75配列",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_069",
+    "name": "CodeDeck 68键 K069",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 299,
+    "monthly_sales": 4824,
+    "features": [
+      "68键",
+      "段落轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_070",
+    "name": "GameType 104键 K070",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 359,
+    "monthly_sales": 5117,
+    "features": [
+      "104键",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_071",
+    "name": "OfficeKey 98键 K071",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 319,
+    "monthly_sales": 5410,
+    "features": [
+      "98键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_072",
+    "name": "PixelBoard 87键 K072",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 339,
+    "monthly_sales": 503,
+    "features": [
+      "87键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_073",
+    "name": "KeyNova 75配列 K073",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 159,
+    "monthly_sales": 796,
+    "features": [
+      "75配列",
+      "静音轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_074",
+    "name": "SwitchLab 68键 K074",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 499,
+    "monthly_sales": 1089,
+    "features": [
+      "68键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_075",
+    "name": "CodeDeck 104键 K075",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 179,
+    "monthly_sales": 1382,
+    "features": [
+      "104键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_076",
+    "name": "GameType 98键 K076",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 479,
+    "monthly_sales": 1675,
+    "features": [
+      "98键",
+      "提前触发轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_077",
+    "name": "OfficeKey 87键 K077",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 199,
+    "monthly_sales": 1968,
+    "features": [
+      "87键",
+      "提前触发轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_078",
+    "name": "PixelBoard 75配列 K078",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 459,
+    "monthly_sales": 2261,
+    "features": [
+      "75配列",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_079",
+    "name": "KeyNova 68键 K079",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 219,
+    "monthly_sales": 2554,
+    "features": [
+      "68键",
+      "提前触发轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_080",
+    "name": "SwitchLab 104键 K080",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 439,
+    "monthly_sales": 2847,
+    "features": [
+      "104键",
+      "提前触发轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_081",
+    "name": "CodeDeck 98键 K081",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 239,
+    "monthly_sales": 3140,
+    "features": [
+      "98键",
+      "线性轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_082",
+    "name": "GameType 87键 K082",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 419,
+    "monthly_sales": 3433,
+    "features": [
+      "87键",
+      "线性轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_083",
+    "name": "OfficeKey 75配列 K083",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 259,
+    "monthly_sales": 3726,
+    "features": [
+      "75配列",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_084",
+    "name": "PixelBoard 68键 K084",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 399,
+    "monthly_sales": 4019,
+    "features": [
+      "68键",
+      "线性轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_085",
+    "name": "KeyNova 104键 K085",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 279,
+    "monthly_sales": 4312,
+    "features": [
+      "104键",
+      "线性轴",
+      "三模连接",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_086",
+    "name": "SwitchLab 98键 K086",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 379,
+    "monthly_sales": 4605,
+    "features": [
+      "98键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_087",
+    "name": "CodeDeck 87键 K087",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 299,
+    "monthly_sales": 4898,
+    "features": [
+      "87键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_088",
+    "name": "GameType 75配列 K088",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 359,
+    "monthly_sales": 5191,
+    "features": [
+      "75配列",
+      "段落轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_089",
+    "name": "OfficeKey 68键 K089",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 319,
+    "monthly_sales": 5484,
+    "features": [
+      "68键",
+      "段落轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_090",
+    "name": "PixelBoard 104键 K090",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "程序员"
+    ],
+    "price": 339,
+    "monthly_sales": 577,
+    "features": [
+      "104键",
+      "段落轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_091",
+    "name": "KeyNova 98键 K091",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "学生"
+    ],
+    "price": 159,
+    "monthly_sales": 870,
+    "features": [
+      "98键",
+      "静音轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_092",
+    "name": "SwitchLab 87键 K092",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "程序员"
+    ],
+    "price": 499,
+    "monthly_sales": 1163,
+    "features": [
+      "87键",
+      "静音轴",
+      "热插拔",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_093",
+    "name": "CodeDeck 75配列 K093",
+    "category": "机械键盘",
+    "target_audience": [
+      "游戏",
+      "电竞"
+    ],
+    "price": 179,
+    "monthly_sales": 1456,
+    "features": [
+      "75配列",
+      "静音轴",
+      "热插拔",
+      "RGB背光"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "regular",
+    "expected_statistical_flag": false,
+    "expected_excluded": false,
+    "expected_market_layer": "candidate",
+    "id": "keyboard_094",
+    "name": "GameType 68键 K094",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "学生"
+    ],
+    "price": 479,
+    "monthly_sales": 1749,
+    "features": [
+      "68键",
+      "静音轴",
+      "三模连接",
+      "全键无冲"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "entry",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "clearance",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "keyboard_095",
+    "name": "OfficeKey 87 旧款清仓",
+    "category": "机械键盘",
+    "target_audience": [
+      "学生",
+      "预算敏感"
+    ],
+    "price": 49,
+    "original_price": 259,
+    "monthly_sales": 280,
+    "features": [
+      "87键",
+      "有线连接",
+      "段落轴",
+      "旧款清仓"
+    ],
+    "price_explanation": "旧款有线库存清仓，不再提供新配色和长期备件",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "refurbished",
+    "brand_tier": "entry",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "refurbished_clearance",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "keyboard_096",
+    "name": "RenewBoard 68 官方翻新",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公",
+      "入门"
+    ],
+    "price": 39,
+    "original_price": 329,
+    "monthly_sales": 150,
+    "features": [
+      "68键",
+      "线性轴",
+      "官方翻新",
+      "六个月保修"
+    ],
+    "price_explanation": "展示样机翻新销售，缺少原包装且保修期缩短",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "premium",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "keyboard_097",
+    "name": "SwitchLab CNC Magnetic Pro",
+    "category": "机械键盘",
+    "target_audience": [
+      "电竞",
+      "发烧友"
+    ],
+    "price": 999,
+    "monthly_sales": 430,
+    "features": [
+      "CNC铝壳",
+      "磁轴",
+      "可调触发",
+      "两年保修"
+    ],
+    "price_explanation": "CNC铝壳、磁轴可调触发和延长保修支撑高端价格",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "luxury",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "made_to_order",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "explainable_extreme",
+    "expected_statistical_flag": true,
+    "expected_excluded": false,
+    "expected_market_layer": "adjacent_tier",
+    "id": "keyboard_098",
+    "name": "ArtisanBoard Custom 75",
+    "category": "机械键盘",
+    "target_audience": [
+      "创作者",
+      "收藏"
+    ],
+    "price": 1299,
+    "monthly_sales": 90,
+    "features": [
+      "定制外壳",
+      "客制化轴体",
+      "PBT键帽",
+      "装配服务"
+    ],
+    "price_explanation": "小批量客制化外壳、轴体、键帽和人工装配服务支撑高价",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "accessory",
+    "package_type": "accessory",
+    "sales_context": "regular",
+    "currency": "CNY",
+    "price_unit": "yuan_per_item",
+    "test_case": "dirty_outlier",
+    "expected_statistical_flag": true,
+    "expected_excluded": true,
+    "expected_market_layer": "excluded",
+    "id": "keyboard_099",
+    "name": "拔键器工具（误归类）",
+    "category": "机械键盘",
+    "target_audience": [
+      "配件用户"
+    ],
+    "price": 8.8,
+    "monthly_sales": 3900,
+    "features": [
+      "拔键器",
+      "维修工具"
+    ],
+    "data_quality_flags": [
+      "category_mismatch",
+      "non_product_accessory"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "condition": "new",
+    "brand_tier": "mass_market",
+    "product_type": "keyboard",
+    "package_type": "single_product",
+    "sales_context": "data_import",
+    "currency": "CNY",
+    "price_unit": "fen_mislabeled_as_yuan",
+    "test_case": "dirty_outlier",
+    "expected_statistical_flag": true,
+    "expected_excluded": true,
+    "expected_market_layer": "excluded",
+    "id": "keyboard_100",
+    "name": "Imported Keyboard Price Unit Error",
+    "category": "机械键盘",
+    "target_audience": [
+      "办公"
+    ],
+    "price": 12999,
+    "monthly_sales": 0,
+    "features": [
+      "98键",
+      "三模连接"
+    ],
+    "data_quality_flags": [
+      "currency_unit_mismatch",
+      "suspected_import_error"
+    ],
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  }
+]

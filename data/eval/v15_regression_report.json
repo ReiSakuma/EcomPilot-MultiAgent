@@ -1,0 +1,463 @@
+{
+  "total": 10,
+  "task_success_rate": 0.4,
+  "constraint_satisfaction_rate": 0.7,
+  "avg_context_tokens": 247.97,
+  "avg_tool_failure_rate": 0.0,
+  "side_effect_tool_calls": 5,
+  "tool_retry_count": 0,
+  "idempotent_replay_count": 0,
+  "tool_validation_failure_count": 0,
+  "model_call_count": 0,
+  "avg_market_sample_score": 0.9,
+  "execution_verification_rate": 0.4,
+  "regression_pass_rate": 1.0,
+  "bad_case_counts": {
+    "Browser Execution Error": 2,
+    "Constraint Violation": 3,
+    "Retrieval Error": 1
+  },
+  "bad_cases": [
+    {
+      "run_id": "run_94632c30",
+      "task_id": "task_3058151d",
+      "status": "waiting_for_approval",
+      "case_type": "Browser Execution Error",
+      "failed_nodes": [],
+      "violations": [],
+      "constraints": {
+        "cost": 95.0,
+        "target_price": 199.0,
+        "inventory": 800,
+        "min_margin_rate": 0.25,
+        "target_audience": "大学生",
+        "category": "无线耳机"
+      },
+      "root_cause": "human_approval_missing",
+      "owner": "approval_guardrail",
+      "severity": "info",
+      "recoverable": true,
+      "expected_guardrail": true,
+      "recommended_action": "Resume from the approval gate after explicit human approval.",
+      "failed_tools": []
+    },
+    {
+      "run_id": "run_49e739d8",
+      "task_id": "task_29029f54",
+      "status": "failed",
+      "case_type": "Constraint Violation",
+      "failed_nodes": [
+        "review"
+      ],
+      "violations": [
+        "margin_below_minimum"
+      ],
+      "constraints": {
+        "cost": 180.0,
+        "target_price": 199.0,
+        "inventory": 800,
+        "min_margin_rate": 0.25,
+        "target_audience": "大学生",
+        "category": "无线耳机"
+      },
+      "root_cause": "business_constraint_rejected",
+      "owner": "review_agent",
+      "severity": "medium",
+      "recoverable": true,
+      "expected_guardrail": true,
+      "recommended_action": "Revise the listing or strategy, then rerun review.",
+      "failed_tools": []
+    },
+    {
+      "run_id": "run_78f99628",
+      "task_id": "task_5f18c1a1",
+      "status": "failed",
+      "case_type": "Constraint Violation",
+      "failed_nodes": [
+        "review"
+      ],
+      "violations": [
+        "inventory_shortage"
+      ],
+      "constraints": {
+        "cost": 95.0,
+        "target_price": 199.0,
+        "inventory": 100,
+        "planned_units": 300,
+        "min_margin_rate": 0.25,
+        "target_audience": "大学生",
+        "category": "无线耳机"
+      },
+      "root_cause": "business_constraint_rejected",
+      "owner": "review_agent",
+      "severity": "medium",
+      "recoverable": true,
+      "expected_guardrail": true,
+      "recommended_action": "Revise the listing or strategy, then rerun review.",
+      "failed_tools": []
+    },
+    {
+      "run_id": "run_369bde80",
+      "task_id": "task_5334349a",
+      "status": "failed",
+      "case_type": "Constraint Violation",
+      "failed_nodes": [
+        "review"
+      ],
+      "violations": [
+        "absolute_marketing_term"
+      ],
+      "constraints": {
+        "cost": 95.0,
+        "target_price": 199.0,
+        "inventory": 800,
+        "min_margin_rate": 0.25,
+        "target_audience": "大学生",
+        "category": "无线耳机",
+        "force_bad_title": true
+      },
+      "root_cause": "business_constraint_rejected",
+      "owner": "review_agent",
+      "severity": "medium",
+      "recoverable": true,
+      "expected_guardrail": true,
+      "recommended_action": "Revise the listing or strategy, then rerun review.",
+      "failed_tools": []
+    },
+    {
+      "run_id": "run_92f17d29",
+      "task_id": "task_922138a4",
+      "status": "failed",
+      "case_type": "Retrieval Error",
+      "failed_nodes": [
+        "market"
+      ],
+      "violations": [],
+      "constraints": {
+        "cost": 50.0,
+        "target_price": 99.0,
+        "inventory": 300,
+        "min_margin_rate": 0.25,
+        "target_audience": "大学生",
+        "category": "智能水杯"
+      },
+      "root_cause": "market_dataset_not_found",
+      "owner": "market_agent",
+      "severity": "high",
+      "recoverable": true,
+      "expected_guardrail": false,
+      "recommended_action": "Add a category dataset or configure an external data provider.",
+      "failed_tools": []
+    },
+    {
+      "run_id": "run_dcb85e2e",
+      "task_id": "task_cf4cdce9",
+      "status": "failed",
+      "case_type": "Browser Execution Error",
+      "failed_nodes": [
+        "browser"
+      ],
+      "violations": [],
+      "constraints": {
+        "cost": 95.0,
+        "target_price": 199.0,
+        "inventory": 800,
+        "min_margin_rate": 0.25,
+        "target_audience": "大学生",
+        "category": "无线耳机",
+        "force_execution_verification_failure": true
+      },
+      "root_cause": "execution_or_verification_failed",
+      "owner": "browser_agent",
+      "severity": "high",
+      "recoverable": true,
+      "expected_guardrail": false,
+      "recommended_action": "Inspect execution and verification tool events before retrying.",
+      "failed_tools": []
+    }
+  ],
+  "case_results": [
+    {
+      "case_id": "happy_path_approved",
+      "name": "审批通过的无线耳机新品上架",
+      "task_id": "task_13d05df9",
+      "run_id": "run_be22fedd",
+      "status": "completed",
+      "success": true,
+      "expected_success": true,
+      "expected_bad_case": null,
+      "bad_case": null,
+      "passed_expectation": true
+    },
+    {
+      "case_id": "approval_required",
+      "name": "高风险写操作未审批应阻断",
+      "task_id": "task_3058151d",
+      "run_id": "run_94632c30",
+      "status": "waiting_for_approval",
+      "success": false,
+      "expected_success": false,
+      "expected_bad_case": "Browser Execution Error",
+      "bad_case": {
+        "run_id": "run_94632c30",
+        "task_id": "task_3058151d",
+        "status": "waiting_for_approval",
+        "case_type": "Browser Execution Error",
+        "failed_nodes": [],
+        "violations": [],
+        "constraints": {
+          "cost": 95.0,
+          "target_price": 199.0,
+          "inventory": 800,
+          "min_margin_rate": 0.25,
+          "target_audience": "大学生",
+          "category": "无线耳机"
+        },
+        "root_cause": "human_approval_missing",
+        "owner": "approval_guardrail",
+        "severity": "info",
+        "recoverable": true,
+        "expected_guardrail": true,
+        "recommended_action": "Resume from the approval gate after explicit human approval.",
+        "failed_tools": []
+      },
+      "passed_expectation": true
+    },
+    {
+      "case_id": "margin_violation",
+      "name": "毛利率约束不满足",
+      "task_id": "task_29029f54",
+      "run_id": "run_49e739d8",
+      "status": "failed",
+      "success": false,
+      "expected_success": false,
+      "expected_bad_case": "Constraint Violation",
+      "bad_case": {
+        "run_id": "run_49e739d8",
+        "task_id": "task_29029f54",
+        "status": "failed",
+        "case_type": "Constraint Violation",
+        "failed_nodes": [
+          "review"
+        ],
+        "violations": [
+          "margin_below_minimum"
+        ],
+        "constraints": {
+          "cost": 180.0,
+          "target_price": 199.0,
+          "inventory": 800,
+          "min_margin_rate": 0.25,
+          "target_audience": "大学生",
+          "category": "无线耳机"
+        },
+        "root_cause": "business_constraint_rejected",
+        "owner": "review_agent",
+        "severity": "medium",
+        "recoverable": true,
+        "expected_guardrail": true,
+        "recommended_action": "Revise the listing or strategy, then rerun review.",
+        "failed_tools": []
+      },
+      "passed_expectation": true
+    },
+    {
+      "case_id": "inventory_shortage",
+      "name": "库存不足",
+      "task_id": "task_5f18c1a1",
+      "run_id": "run_78f99628",
+      "status": "failed",
+      "success": false,
+      "expected_success": false,
+      "expected_bad_case": "Constraint Violation",
+      "bad_case": {
+        "run_id": "run_78f99628",
+        "task_id": "task_5f18c1a1",
+        "status": "failed",
+        "case_type": "Constraint Violation",
+        "failed_nodes": [
+          "review"
+        ],
+        "violations": [
+          "inventory_shortage"
+        ],
+        "constraints": {
+          "cost": 95.0,
+          "target_price": 199.0,
+          "inventory": 100,
+          "planned_units": 300,
+          "min_margin_rate": 0.25,
+          "target_audience": "大学生",
+          "category": "无线耳机"
+        },
+        "root_cause": "business_constraint_rejected",
+        "owner": "review_agent",
+        "severity": "medium",
+        "recoverable": true,
+        "expected_guardrail": true,
+        "recommended_action": "Revise the listing or strategy, then rerun review.",
+        "failed_tools": []
+      },
+      "passed_expectation": true
+    },
+    {
+      "case_id": "absolute_marketing_term",
+      "name": "绝对化营销词",
+      "task_id": "task_5334349a",
+      "run_id": "run_369bde80",
+      "status": "failed",
+      "success": false,
+      "expected_success": false,
+      "expected_bad_case": "Constraint Violation",
+      "bad_case": {
+        "run_id": "run_369bde80",
+        "task_id": "task_5334349a",
+        "status": "failed",
+        "case_type": "Constraint Violation",
+        "failed_nodes": [
+          "review"
+        ],
+        "violations": [
+          "absolute_marketing_term"
+        ],
+        "constraints": {
+          "cost": 95.0,
+          "target_price": 199.0,
+          "inventory": 800,
+          "min_margin_rate": 0.25,
+          "target_audience": "大学生",
+          "category": "无线耳机",
+          "force_bad_title": true
+        },
+        "root_cause": "business_constraint_rejected",
+        "owner": "review_agent",
+        "severity": "medium",
+        "recoverable": true,
+        "expected_guardrail": true,
+        "recommended_action": "Revise the listing or strategy, then rerun review.",
+        "failed_tools": []
+      },
+      "passed_expectation": true
+    },
+    {
+      "case_id": "unknown_category",
+      "name": "未知品类无法检索市场数据",
+      "task_id": "task_922138a4",
+      "run_id": "run_92f17d29",
+      "status": "failed",
+      "success": false,
+      "expected_success": false,
+      "expected_bad_case": "Retrieval Error",
+      "bad_case": {
+        "run_id": "run_92f17d29",
+        "task_id": "task_922138a4",
+        "status": "failed",
+        "case_type": "Retrieval Error",
+        "failed_nodes": [
+          "market"
+        ],
+        "violations": [],
+        "constraints": {
+          "cost": 50.0,
+          "target_price": 99.0,
+          "inventory": 300,
+          "min_margin_rate": 0.25,
+          "target_audience": "大学生",
+          "category": "智能水杯"
+        },
+        "root_cause": "market_dataset_not_found",
+        "owner": "market_agent",
+        "severity": "high",
+        "recoverable": true,
+        "expected_guardrail": false,
+        "recommended_action": "Add a category dataset or configure an external data provider.",
+        "failed_tools": []
+      },
+      "passed_expectation": true
+    },
+    {
+      "case_id": "execution_verification_failure",
+      "name": "模拟执行后验证失败",
+      "task_id": "task_cf4cdce9",
+      "run_id": "run_dcb85e2e",
+      "status": "failed",
+      "success": false,
+      "expected_success": false,
+      "expected_bad_case": "Browser Execution Error",
+      "bad_case": {
+        "run_id": "run_dcb85e2e",
+        "task_id": "task_cf4cdce9",
+        "status": "failed",
+        "case_type": "Browser Execution Error",
+        "failed_nodes": [
+          "browser"
+        ],
+        "violations": [],
+        "constraints": {
+          "cost": 95.0,
+          "target_price": 199.0,
+          "inventory": 800,
+          "min_margin_rate": 0.25,
+          "target_audience": "大学生",
+          "category": "无线耳机",
+          "force_execution_verification_failure": true
+        },
+        "root_cause": "execution_or_verification_failed",
+        "owner": "browser_agent",
+        "severity": "high",
+        "recoverable": true,
+        "expected_guardrail": false,
+        "recommended_action": "Inspect execution and verification tool events before retrying.",
+        "failed_tools": []
+      },
+      "passed_expectation": true
+    },
+    {
+      "case_id": "high_margin_requirement",
+      "name": "过高毛利要求导致优惠为 0 仍需通过",
+      "task_id": "task_c3e03bbe",
+      "run_id": "run_a7f76ab6",
+      "status": "completed",
+      "success": true,
+      "expected_success": true,
+      "expected_bad_case": null,
+      "bad_case": null,
+      "passed_expectation": true
+    },
+    {
+      "case_id": "low_inventory_but_small_plan",
+      "name": "低库存但计划销量更小",
+      "task_id": "task_180aef34",
+      "run_id": "run_81eb786b",
+      "status": "completed",
+      "success": true,
+      "expected_success": true,
+      "expected_bad_case": null,
+      "bad_case": null,
+      "passed_expectation": true
+    },
+    {
+      "case_id": "student_market_dataset",
+      "name": "市场数据集样本充足",
+      "task_id": "task_777f3822",
+      "run_id": "run_3d120e92",
+      "status": "completed",
+      "success": true,
+      "expected_success": true,
+      "expected_bad_case": null,
+      "bad_case": null,
+      "passed_expectation": true
+    }
+  ],
+  "regression_failures": [],
+  "observability": {
+    "traced_run_count": 10,
+    "trace_coverage_rate": 1.0,
+    "avg_events_per_run": 34.8,
+    "tool_call_events": 47,
+    "model_call_events": 0,
+    "error_events": 0,
+    "failed_status_events": 20,
+    "guardrail_events": 2
+  }
+}

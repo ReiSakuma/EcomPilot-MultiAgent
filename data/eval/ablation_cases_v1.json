@@ -1,0 +1,47 @@
+{
+  "dataset_version": "ablation-v1",
+  "json_schema": [
+    {
+      "case_id": "json_valid",
+      "raw_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}",
+      "constrained_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}"
+    },
+    {
+      "case_id": "json_markdown",
+      "raw_output": "```json\n{\"title\":\"低延迟无线耳机\"}\n```",
+      "constrained_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}"
+    },
+    {
+      "case_id": "json_missing",
+      "raw_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"]}",
+      "constrained_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}"
+    },
+    {
+      "case_id": "json_wrong_type",
+      "raw_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":\"无线耳机\",\"bullets\":[\"长续航\"],\"compliance_notes\":[]}",
+      "constrained_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}"
+    },
+    {
+      "case_id": "json_extra_field",
+      "raw_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[],\"price\":1}",
+      "constrained_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}"
+    },
+    {
+      "case_id": "json_non_object",
+      "raw_output": "[\"低延迟无线耳机\"]",
+      "constrained_output": "{\"title\":\"低延迟无线耳机\",\"keywords\":[\"无线耳机\"],\"bullets\":[\"长续航\"],\"compliance_notes\":[]}"
+    }
+  ],
+  "deterministic_review": [
+    {"case_id":"review_margin","margin_rate":0.1,"min_margin_rate":0.25,"inventory_valid":true,"title":"合规无线耳机","llm_approved":true,"should_block":true},
+    {"case_id":"review_inventory","margin_rate":0.4,"min_margin_rate":0.25,"inventory_valid":false,"title":"合规无线耳机","llm_approved":true,"should_block":true},
+    {"case_id":"review_compliance","margin_rate":0.4,"min_margin_rate":0.25,"inventory_valid":true,"title":"第一无线耳机","llm_approved":true,"should_block":true},
+    {"case_id":"review_normal","margin_rate":0.4,"min_margin_rate":0.25,"inventory_valid":true,"title":"低延迟无线耳机","llm_approved":true,"should_block":false}
+  ],
+  "browser_readback": [
+    {"case_id":"readback_title","field":"title","wrong_value":"页面漂移标题"},
+    {"case_id":"readback_price","field":"price","wrong_value":299},
+    {"case_id":"readback_stock","field":"stock","wrong_value":7},
+    {"case_id":"readback_coupon","field":"coupon","wrong_value":5}
+  ]
+}

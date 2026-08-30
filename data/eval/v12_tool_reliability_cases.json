@@ -1,0 +1,9 @@
+[
+  {"case_id": "permission_denial", "expected": "ToolPermissionError"},
+  {"case_id": "approval_guard", "expected": "ToolApprovalRequiredError"},
+  {"case_id": "parameter_validation", "expected": "ToolParameterError"},
+  {"case_id": "transient_retry", "expected": "completed_after_2_attempts"},
+  {"case_id": "timeout_enforcement", "expected": "ToolTimeoutError"},
+  {"case_id": "result_validation", "expected": "ToolResultValidationError"},
+  {"case_id": "persistent_idempotency", "expected": "replayed_across_instances"}
+]

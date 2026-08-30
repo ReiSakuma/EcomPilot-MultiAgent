@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Runtime state. Reproducible fixtures below remain tracked.
+data/*
+!data/products/
+!data/products/**
+!data/reviews/
+!data/reviews/**
+!data/eval/
+!data/eval/**
+!data/strategy/
+!data/strategy/**
+
+# Generated evidence
+reports/**
+!reports/browser/
+!reports/browser/v39/
+!reports/browser/v39/visual_report.json
+!reports/v51/
+!reports/v51/market_fixture_distribution.json
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.jsonl.lock
+
+# Browser and packaging output
+playwright-report/
+test-results/
+dist/
+build/

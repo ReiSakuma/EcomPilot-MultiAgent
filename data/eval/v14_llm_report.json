@@ -1,0 +1,85 @@
+{
+  "runtime": {
+    "provider": "deterministic",
+    "model": "local-rule-v6",
+    "base_url": "https://api.openai.com/v1",
+    "api_key_configured": false,
+    "enabled_agents": [
+      "listing_agent",
+      "review_agent",
+      "strategy_agent"
+    ],
+    "supported_agents": [
+      "listing_agent",
+      "review_agent",
+      "strategy_agent"
+    ],
+    "fallback_mode": "deterministic",
+    "timeout_seconds": 30.0,
+    "max_retries": 2,
+    "max_output_tokens": 1200,
+    "max_calls_per_agent": 2,
+    "max_repair_attempts": 1,
+    "real_llm_enabled": false,
+    "ready": true,
+    "issues": []
+  },
+  "total_cases": 3,
+  "model_call_count": 9,
+  "completed_model_calls": 9,
+  "failed_model_calls": 0,
+  "model_call_success_rate": 1.0,
+  "structured_output_success_rate": 1.0,
+  "case_structured_success_rate": 1.0,
+  "fallback_count": 0,
+  "fallback_rate": 0.0,
+  "json_repair_count": 0,
+  "actual_usage_record_count": 0,
+  "input_tokens": 3009,
+  "output_tokens": 312,
+  "cost_usd_estimate": 0.0,
+  "cases": [
+    {
+      "case_id": "student_launch",
+      "task_id": "task_d9447ede",
+      "run_id": "run_fd249488",
+      "workflow_status": "waiting_for_approval",
+      "generation_modes": {
+        "review_agent": "llm",
+        "strategy_agent": "llm",
+        "listing_agent": "llm"
+      },
+      "structured_output_passed": true,
+      "model_call_count": 3,
+      "fallback_count": 0
+    },
+    {
+      "case_id": "student_value_launch",
+      "task_id": "task_d4c7beab",
+      "run_id": "run_01557c5a",
+      "workflow_status": "waiting_for_approval",
+      "generation_modes": {
+        "review_agent": "llm",
+        "strategy_agent": "llm",
+        "listing_agent": "llm"
+      },
+      "structured_output_passed": true,
+      "model_call_count": 3,
+      "fallback_count": 0
+    },
+    {
+      "case_id": "student_small_campaign",
+      "task_id": "task_9a338cc7",
+      "run_id": "run_051b0de7",
+      "workflow_status": "waiting_for_approval",
+      "generation_modes": {
+        "review_agent": "llm",
+        "strategy_agent": "llm",
+        "listing_agent": "llm"
+      },
+      "structured_output_passed": true,
+      "model_call_count": 3,
+      "fallback_count": 0
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "dataset_version": "synthetic-strategy-evidence-v1",
+  "source_type": "synthetic_seed",
+  "scope": "shared_market_reference",
+  "demand_signals": [
+    {
+      "signal_id": "demand_student_earbuds_2026q3",
+      "category": "无线耳机",
+      "audience": "学生",
+      "reference_price": 199,
+      "weekly_units": [62, 68, 71, 76, 83, 91, 96, 104],
+      "price_elasticity": -1.15,
+      "seasonality_factor": 1.08
+    }
+  ],
+  "campaigns": [
+    {
+      "campaign_id": "campaign_campus_01",
+      "category": "无线耳机",
+      "audience": "学生",
+      "discount": 10,
+      "planned_units": 240,
+      "sold_units": 218,
+      "conversion_rate": 0.061,
+      "roi": 1.72,
+      "channel": "校园社群",
+      "outcome": "稳健"
+    },
+    {
+      "campaign_id": "campaign_campus_02",
+      "category": "无线耳机",
+      "audience": "学生",
+      "discount": 20,
+      "planned_units": 320,
+      "sold_units": 301,
+      "conversion_rate": 0.078,
+      "roi": 1.54,
+      "channel": "学生专区",
+      "outcome": "销量较高但利润率下降"
+    },
+    {
+      "campaign_id": "campaign_campus_03",
+      "category": "无线耳机",
+      "audience": "学生",
+      "discount": 15,
+      "planned_units": 280,
+      "sold_units": 267,
+      "conversion_rate": 0.073,
+      "roi": 1.81,
+      "channel": "内容种草",
+      "outcome": "综合表现最佳"
+    },
+    {
+      "campaign_id": "campaign_commute_01",
+      "category": "无线耳机",
+      "audience": "通勤",
+      "discount": 12,
+      "planned_units": 260,
+      "sold_units": 221,
+      "conversion_rate": 0.059,
+      "roi": 1.63,
+      "channel": "站内搜索",
+      "outcome": "稳健"
+    }
+  ],
+  "competitor_price_history": [
+    {
+      "product_id": "earbud_003",
+      "name": "StudyPods S2",
+      "category": "无线耳机",
+      "points": [
+        {"date": "2026-07-01", "price": 209, "sales_index": 92},
+        {"date": "2026-07-15", "price": 209, "sales_index": 95},
+        {"date": "2026-08-01", "price": 199, "sales_index": 108},
+        {"date": "2026-08-15", "price": 199, "sales_index": 112}
+      ]
+    },
+    {
+      "product_id": "earbud_009",
+      "name": "ClearTalk C2",
+      "category": "无线耳机",
+      "points": [
+        {"date": "2026-07-01", "price": 199, "sales_index": 88},
+        {"date": "2026-07-15", "price": 189, "sales_index": 101},
+        {"date": "2026-08-01", "price": 199, "sales_index": 94},
+        {"date": "2026-08-15", "price": 199, "sales_index": 96}
+      ]
+    },
+    {
+      "product_id": "earbud_007",
+      "name": "ClassMate TWS",
+      "category": "无线耳机",
+      "points": [
+        {"date": "2026-07-01", "price": 159, "sales_index": 105},
+        {"date": "2026-07-15", "price": 149, "sales_index": 118},
+        {"date": "2026-08-01", "price": 149, "sales_index": 121},
+        {"date": "2026-08-15", "price": 149, "sales_index": 124}
+      ]
+    },
+    {
+      "product_id": "earbud_005",
+      "name": "GameBeat G1",
+      "category": "无线耳机",
+      "points": [
+        {"date": "2026-07-01", "price": 239, "sales_index": 79},
+        {"date": "2026-07-15", "price": 229, "sales_index": 88},
+        {"date": "2026-08-01", "price": 229, "sales_index": 90},
+        {"date": "2026-08-15", "price": 229, "sales_index": 91}
+      ]
+    }
+  ]
+}

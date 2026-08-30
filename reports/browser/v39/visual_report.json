@@ -1,0 +1,15 @@
+{
+  "version": "v39-chaos-readiness",
+  "passed": true,
+  "console_errors": [],
+  "results": [
+    {
+      "viewport": "desktop",
+      "passed": true
+    },
+    {
+      "viewport": "mobile",
+      "passed": true
+    }
+  ]
+}

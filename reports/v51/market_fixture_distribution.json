@@ -1,0 +1,43 @@
+{
+  "dataset_version": "tenant-market-v4",
+  "无线耳机": {
+    "product_count": 100,
+    "price_min": 9.9,
+    "price_max": 9999.0,
+    "price_mean": 294.809,
+    "price_median": 189.0,
+    "test_case_counts": {
+      "regular": 94,
+      "explainable_extreme": 4,
+      "dirty_outlier": 2
+    },
+    "special_sample_ids": [
+      "earbud_095",
+      "earbud_096",
+      "earbud_097",
+      "earbud_098",
+      "earbud_099",
+      "earbud_100"
+    ]
+  },
+  "机械键盘": {
+    "product_count": 100,
+    "price_min": 8.8,
+    "price_max": 12999.0,
+    "price_mean": 463.198,
+    "price_median": 329.0,
+    "test_case_counts": {
+      "regular": 94,
+      "explainable_extreme": 4,
+      "dirty_outlier": 2
+    },
+    "special_sample_ids": [
+      "keyboard_095",
+      "keyboard_096",
+      "keyboard_097",
+      "keyboard_098",
+      "keyboard_099",
+      "keyboard_100"
+    ]
+  }
+}

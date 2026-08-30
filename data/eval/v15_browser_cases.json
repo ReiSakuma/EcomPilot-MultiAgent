@@ -1,0 +1,6 @@
+[
+  {"case_id": "approved_execution", "expected": "verified_backend_execution"},
+  {"case_id": "approval_block", "expected": "waiting_without_side_effect"},
+  {"case_id": "idempotent_replay", "expected": "single_side_effect"},
+  {"case_id": "ticket_integrity", "expected": "mismatch_and_replay_blocked"}
+]

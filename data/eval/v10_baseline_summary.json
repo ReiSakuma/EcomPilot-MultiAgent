@@ -1,0 +1,29 @@
+{
+  "baseline_version": "v10",
+  "dataset": "data/eval/v9_regression_tasks.json",
+  "total_cases": 10,
+  "mode": "deterministic",
+  "metrics": {
+    "task_success_rate": 0.4,
+    "constraint_satisfaction_rate": 0.7,
+    "avg_context_tokens": 246.89,
+    "avg_tool_failure_rate": 0.0,
+    "side_effect_tool_calls": 5,
+    "model_call_count": 0,
+    "avg_market_sample_score": 0.9,
+    "execution_verification_rate": 0.4,
+    "regression_pass_rate": 1.0
+  },
+  "bad_case_counts": {
+    "Browser Execution Error": 2,
+    "Constraint Violation": 3,
+    "Retrieval Error": 1
+  },
+  "known_observability_gaps": [
+    "run_id was not returned in TaskState",
+    "tool and model calls were not first-class trace events",
+    "there was no trace list or detail API",
+    "there was no run summary or trace UI",
+    "bad cases did not include root cause, owner, or recovery advice"
+  ]
+}

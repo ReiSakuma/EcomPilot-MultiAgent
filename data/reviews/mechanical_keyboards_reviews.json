@@ -1,0 +1,1402 @@
+[
+  {
+    "product_id": "keyboard_001",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_001",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_002",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_002",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_003",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_003",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_004",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_004",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_005",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_005",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_006",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_006",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_007",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_007",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_008",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_008",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_009",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_009",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_010",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_010",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_011",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_011",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_012",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_012",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_013",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_013",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_014",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_014",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_015",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_015",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_016",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_016",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_017",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_017",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_018",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_018",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_019",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_019",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_020",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_020",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_021",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_021",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_022",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_022",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_023",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_023",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_024",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_024",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_025",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_025",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_026",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_026",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_027",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_027",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_028",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_028",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_029",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_029",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_030",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_030",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_031",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_031",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_032",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_032",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_033",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_033",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_034",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_034",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_035",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_035",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_036",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_036",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_037",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_037",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_038",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_038",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_039",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_039",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_040",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_040",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_041",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_041",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_042",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_042",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_043",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_043",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_044",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_044",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_045",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_045",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_046",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_046",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_047",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_047",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_048",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_048",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_049",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_049",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_050",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_050",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_051",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_051",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_052",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_052",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_053",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_053",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_054",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_054",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_055",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_055",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_056",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_056",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_057",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_057",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_058",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_058",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_059",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_059",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_060",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_060",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_061",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_061",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_062",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_062",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_063",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_063",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_064",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_064",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_065",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_065",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_066",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_066",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_067",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_067",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_068",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_068",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_069",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_069",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_070",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_070",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_071",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_071",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_072",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_072",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_073",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_073",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_074",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_074",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_075",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_075",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_076",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_076",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_077",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_077",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_078",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_078",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_079",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_079",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_080",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_080",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_081",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_081",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_082",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_082",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_083",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_083",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_084",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_084",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_085",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_085",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_086",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_086",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_087",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_087",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_088",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_088",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_089",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_089",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_090",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_090",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_091",
+    "rating": 4,
+    "text": "游戏响应快，键帽字符清晰，背光调节直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_091",
+    "rating": 2,
+    "text": "无线模式偶尔唤醒较慢，希望提升连接稳定性。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_092",
+    "rating": 5,
+    "text": "热插拔更换轴体方便，结构稳定，整体做工不错。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_092",
+    "rating": 3,
+    "text": "软件设置项目较多，第一次使用不够直观。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_093",
+    "rating": 4,
+    "text": "轴体手感顺滑，键位布局紧凑，长时间打字比较舒服。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_093",
+    "rating": 2,
+    "text": "大键声音偏响，夜间使用会觉得噪音明显。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_094",
+    "rating": 5,
+    "text": "无线连接稳定，切换设备方便，适合办公和编程。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_094",
+    "rating": 3,
+    "text": "键帽表面容易留下油印，长期使用需要经常清洁。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_095",
+    "rating": 4,
+    "text": "清仓价适合入门，有线连接稳定，但旧款配件选择少。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_095",
+    "rating": 3,
+    "text": "价格很低，适合宿舍备用，售后说明是不再补货。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_096",
+    "rating": 4,
+    "text": "翻新后按键正常，外壳有使用痕迹，包装不完整。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_096",
+    "rating": 3,
+    "text": "适合低预算办公，但保修比新品短。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_097",
+    "rating": 5,
+    "text": "磁轴触发调节细，铝壳做工和游戏响应都很好。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_097",
+    "rating": 4,
+    "text": "价格高，但结构、轴体和保修明显不是普通入门键盘。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_098",
+    "rating": 5,
+    "text": "定制外壳和装配服务细致，适合客制化玩家。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_098",
+    "rating": 4,
+    "text": "客制化溢价明显，普通办公用户不需要这个配置。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_099",
+    "rating": 1,
+    "text": "这是拔键器工具，不是机械键盘整机。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_099",
+    "rating": 2,
+    "text": "商品分类放错了，价格不能和键盘相比。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_100",
+    "rating": 1,
+    "text": "标价疑似把分当成元，商品页面数据不可信。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  },
+  {
+    "product_id": "keyboard_100",
+    "rating": 1,
+    "text": "价格单位错误，当前记录不应参与市场统计。",
+    "source_type": "synthetic_seed",
+    "synthetic": true
+  }
+]

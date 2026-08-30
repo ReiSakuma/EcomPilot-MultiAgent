@@ -1,0 +1,49 @@
+{
+  "total": 7,
+  "passed": 7,
+  "pass_rate": 1.0,
+  "case_results": [
+    {
+      "case_id": "permission_denial",
+      "expected": "ToolPermissionError",
+      "observed": "ToolPermissionError",
+      "passed": true
+    },
+    {
+      "case_id": "approval_guard",
+      "expected": "ToolApprovalRequiredError",
+      "observed": "ToolApprovalRequiredError",
+      "passed": true
+    },
+    {
+      "case_id": "parameter_validation",
+      "expected": "ToolParameterError",
+      "observed": "ToolParameterError",
+      "passed": true
+    },
+    {
+      "case_id": "transient_retry",
+      "expected": "completed_after_2_attempts",
+      "observed": "completed_after_2_attempts",
+      "passed": true
+    },
+    {
+      "case_id": "timeout_enforcement",
+      "expected": "ToolTimeoutError",
+      "observed": "ToolTimeoutError",
+      "passed": true
+    },
+    {
+      "case_id": "result_validation",
+      "expected": "ToolResultValidationError",
+      "observed": "ToolResultValidationError",
+      "passed": true
+    },
+    {
+      "case_id": "persistent_idempotency",
+      "expected": "replayed_across_instances",
+      "observed": "replayed_across_instances",
+      "passed": true
+    }
+  ]
+}

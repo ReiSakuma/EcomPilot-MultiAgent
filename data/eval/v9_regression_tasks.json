@@ -1,0 +1,78 @@
+[
+  {
+    "case_id": "happy_path_approved",
+    "name": "审批通过的无线耳机新品上架",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 800 件，毛利率不能低于 25%。",
+    "approved": true,
+    "expected_success": true
+  },
+  {
+    "case_id": "approval_required",
+    "name": "高风险写操作未审批应阻断",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 800 件，毛利率不能低于 25%。",
+    "approved": false,
+    "expected_success": false,
+    "expected_bad_case": "Browser Execution Error"
+  },
+  {
+    "case_id": "margin_violation",
+    "name": "毛利率约束不满足",
+    "goal": "我要上架一款成本 180 元的无线耳机，目标售价 199 元，主要面向大学生，库存 800 件，毛利率不能低于 25%。",
+    "approved": true,
+    "expected_success": false,
+    "expected_bad_case": "Price Confirmation"
+  },
+  {
+    "case_id": "inventory_shortage",
+    "name": "库存不足",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 100 件，计划首月销量 300，毛利率不能低于 25%。",
+    "approved": true,
+    "expected_success": false,
+    "expected_bad_case": "Constraint Violation"
+  },
+  {
+    "case_id": "absolute_marketing_term",
+    "name": "绝对化营销词",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 800 件，毛利率不能低于 25%。注入违规标题",
+    "approved": true,
+    "expected_success": true,
+    "expected_bad_case": null
+  },
+  {
+    "case_id": "unknown_category",
+    "name": "未知品类无市场样本时降级继续",
+    "goal": "我要上架一款成本 50 元的智能水杯，目标售价 99 元，主要面向大学生，库存 300 件，毛利率不能低于 25%。",
+    "approved": true,
+    "expected_success": true,
+    "expected_bad_case": null
+  },
+  {
+    "case_id": "execution_verification_failure",
+    "name": "模拟执行后验证失败",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 800 件，毛利率不能低于 25%。模拟执行验证失败",
+    "approved": true,
+    "expected_success": false,
+    "expected_bad_case": "Browser Execution Error"
+  },
+  {
+    "case_id": "high_margin_requirement",
+    "name": "过高毛利要求导致优惠为 0 仍需通过",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 800 件，毛利率不能低于 45%。",
+    "approved": true,
+    "expected_success": true
+  },
+  {
+    "case_id": "low_inventory_but_small_plan",
+    "name": "低库存但计划销量更小",
+    "goal": "我要上架一款成本 95 元的无线耳机，目标售价 199 元，主要面向大学生，库存 120 件，计划首月销量 80，毛利率不能低于 25%。",
+    "approved": true,
+    "expected_success": true
+  },
+  {
+    "case_id": "student_market_dataset",
+    "name": "市场数据集样本充足",
+    "goal": "我要上架一款成本 88 元的无线耳机，目标售价 189 元，主要面向大学生，库存 600 件，计划首月销量 200，毛利率不能低于 25%。",
+    "approved": true,
+    "expected_success": true
+  }
+]

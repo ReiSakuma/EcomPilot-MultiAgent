@@ -1,0 +1,106 @@
+from pathlib import Path
+import os
+
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+PROJECT_VERSION = "0.65.0"
+PROMPT_VERSION = "interview-core-v1"
+INTERVIEW_DATASET_VERSION = "interview-eval-v1"
+DATA_DIR = PROJECT_ROOT / "data"
+RUNTIME_DATA_DIR = Path(os.getenv("ECOMPILOT_RUNTIME_DATA_DIR", str(DATA_DIR)))
+CONVERSATION_DATA_DIR = RUNTIME_DATA_DIR / "conversations"
+CONVERSATION_DATABASE_PATH = CONVERSATION_DATA_DIR / "conversations_v65.db"
+THREAD_CHECKPOINT_DATABASE_PATH = CONVERSATION_DATA_DIR / "langgraph_threads_v65.db"
+DISTRIBUTED_RUNTIME_DATABASE_PATH = RUNTIME_DATA_DIR / "runtime" / "distributed_v65.db"
+RUNTIME_GLOBAL_QUEUE_LIMIT = max(
+    10, int(os.getenv("ECOMPILOT_RUNTIME_GLOBAL_QUEUE_LIMIT", "2000"))
+)
+RUNTIME_TENANT_QUEUE_LIMIT = max(
+    2, int(os.getenv("ECOMPILOT_RUNTIME_TENANT_QUEUE_LIMIT", "200"))
+)
+RUNTIME_TENANT_RATE_PER_MINUTE = max(
+    1, int(os.getenv("ECOMPILOT_RUNTIME_TENANT_RATE_PER_MINUTE", "120"))
+)
+RUNTIME_LEASE_SECONDS = max(
+    5, int(os.getenv("ECOMPILOT_RUNTIME_LEASE_SECONDS", "120"))
+)
+TRACE_DIR = RUNTIME_DATA_DIR / "traces"
+CHECKPOINT_DIR = RUNTIME_DATA_DIR / "checkpoints"
+IDEMPOTENCY_DIR = RUNTIME_DATA_DIR / "idempotency"
+IDEMPOTENCY_FILE = IDEMPOTENCY_DIR / "records.json"
+BROWSER_ARTIFACT_DIR = RUNTIME_DATA_DIR / "browser_artifacts"
+SQL_DATA_DIR = DATA_DIR / "sql"
+SQL_DATABASE_PATH = SQL_DATA_DIR / "market_analytics_v24.db"
+SQL_SANDBOX_TIMEOUT_SECONDS = max(
+    0.1, min(5.0, float(os.getenv("ECOMPILOT_SQL_SANDBOX_TIMEOUT_SECONDS", "1.5")))
+)
+SQL_SANDBOX_QUERY_TIMEOUT_SECONDS = max(
+    0.05, min(2.0, float(os.getenv("ECOMPILOT_SQL_QUERY_TIMEOUT_SECONDS", "0.2")))
+)
+SQL_SANDBOX_MEMORY_MB = max(
+    64, min(512, int(os.getenv("ECOMPILOT_SQL_SANDBOX_MEMORY_MB", "256")))
+)
+SQL_SANDBOX_MAX_OUTPUT_BYTES = max(
+    16_384,
+    min(2_000_000, int(os.getenv("ECOMPILOT_SQL_SANDBOX_MAX_OUTPUT_BYTES", "524288"))),
+)
+SECURITY_DATA_DIR = RUNTIME_DATA_DIR / "security"
+SECURITY_LEDGER_PATH = SECURITY_DATA_DIR / "capability_ledger_v65.jsonl"
+
+# Initial product policy. These are centralized so later calibration never requires
+# changing prompts, Agent code, or UI JavaScript.
+MARKET_PRICE_THRESHOLD_COMMODITY = 0.10
+MARKET_PRICE_THRESHOLD_STANDARD = 0.15
+MARKET_PRICE_THRESHOLD_DIFFERENTIATED = 0.25
+MARKET_PRICE_HIGH_QUALITY_MIN_SAMPLES = 10
+MARKET_PRICE_MEDIUM_QUALITY_MIN_SAMPLES = 5
+CAPABILITY_MAX_USES = max(
+    1, min(32, int(os.getenv("ECOMPILOT_CAPABILITY_MAX_USES", "8")))
+)
+SQL_MAX_ROWS = max(1, min(100, int(os.getenv("ECOMPILOT_SQL_MAX_ROWS", "50"))))
+BROWSER_BACKEND = os.getenv("ECOMPILOT_BROWSER_BACKEND", "mock")
+BROWSER_BASE_URL = os.getenv("ECOMPILOT_BROWSER_BASE_URL", "http://127.0.0.1:8131").rstrip("/")
+BROWSER_HEADLESS = os.getenv("ECOMPILOT_BROWSER_HEADLESS", "true").lower() not in {
+    "0",
+    "false",
+    "no",
+}
+BROWSER_TIMEOUT_MS = int(os.getenv("ECOMPILOT_BROWSER_TIMEOUT_MS", "15000"))
+BROWSER_TICKET_TTL_SECONDS = int(os.getenv("ECOMPILOT_BROWSER_TICKET_TTL_SECONDS", "60"))
+LLM_PROVIDER = os.getenv("ECOMPILOT_LLM_PROVIDER", "deterministic")
+LLM_MODEL = os.getenv("ECOMPILOT_LLM_MODEL", "local-rule-v6")
+LLM_BASE_URL = os.getenv(
+    "ECOMPILOT_LLM_BASE_URL",
+    "https://api.deepseek.com" if LLM_PROVIDER == "deepseek" else "https://api.openai.com/v1",
+)
+LLM_API_KEY = (
+    os.getenv("ECOMPILOT_LLM_API_KEY")
+    or (
+        os.getenv("DEEPSEEK_API_KEY")
+        if LLM_PROVIDER == "deepseek"
+        else os.getenv("OPENAI_API_KEY")
+    )
+)
+LLM_TIMEOUT_SECONDS = float(os.getenv("ECOMPILOT_LLM_TIMEOUT_SECONDS", "90"))
+LLM_MAX_RETRIES = int(os.getenv("ECOMPILOT_LLM_MAX_RETRIES", "1"))
+LLM_MAX_OUTPUT_TOKENS = int(os.getenv("ECOMPILOT_LLM_MAX_OUTPUT_TOKENS", "3000"))
+REVIEW_MAX_OUTPUT_TOKENS = max(
+    1024,
+    min(8192, int(os.getenv("ECOMPILOT_REVIEW_MAX_OUTPUT_TOKENS", "4096"))),
+)
+LLM_REQUEST_BUDGET_SECONDS = (
+    LLM_TIMEOUT_SECONDS * (LLM_MAX_RETRIES + 1) + 5 * LLM_MAX_RETRIES
+)
+WORKFLOW_NODE_TIMEOUT_SECONDS = float(
+    os.getenv(
+        "ECOMPILOT_NODE_TIMEOUT_SECONDS",
+        str(max(120.0, LLM_REQUEST_BUDGET_SECONDS + 5.0)),
+    )
+)
+WORKFLOW_TIMEOUT_SECONDS = max(
+    30.0,
+    min(600.0, float(os.getenv("ECOMPILOT_WORKFLOW_TIMEOUT_SECONDS", "120"))),
+)
+LLM_FALLBACK_MODE = os.getenv("ECOMPILOT_LLM_FALLBACK", "deterministic")
+LLM_MAX_CALLS_PER_AGENT = int(os.getenv("ECOMPILOT_LLM_MAX_CALLS_PER_AGENT", "2"))
+LLM_MAX_REPAIR_ATTEMPTS = int(os.getenv("ECOMPILOT_LLM_MAX_REPAIR_ATTEMPTS", "1"))

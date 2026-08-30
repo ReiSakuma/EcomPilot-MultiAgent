@@ -1,0 +1,60 @@
+{
+  "field_extraction": [
+    {
+      "text": "我要上架一款成本95元的无线耳机，目标售价300元，库存800件，毛利率不能低于40%。已确认的产品功能：蓝牙5.3、游戏低延迟、长续航、快充、通话降噪。已确认的产品形态：未确认。运营目标：面向游戏爱好者，主打性价比。",
+      "expected": {
+        "category": "无线耳机",
+        "cost": 95.0,
+        "target_price": 300.0,
+        "inventory": 800,
+        "min_margin_rate": 0.4,
+        "confirmed_features": ["蓝牙5.3", "游戏低延迟", "长续航", "快充", "通话降噪"]
+      }
+    },
+    {
+      "text": "创建商品，机械键盘成本120元，定价299元，库存60件，毛利率至少35%。",
+      "expected": {
+        "category": "机械键盘",
+        "cost": 120.0,
+        "target_price": 299.0,
+        "inventory": 60,
+        "min_margin_rate": 0.35
+      }
+    },
+    {
+      "text": "请发布一款智能水杯，成本30元，售价79元，库存500件。",
+      "expected": {
+        "category": "智能水杯",
+        "cost": 30.0,
+        "target_price": 79.0,
+        "inventory": 500
+      }
+    }
+  ],
+  "routes": [
+    {
+      "text": "我要上架一款成本95元的无线耳机，售价300元，库存800件",
+      "template_id": "listing_workflow.v1",
+      "approval_required": true,
+      "agents": ["market_agent", "listing_agent", "strategy_agent", "review_agent", "browser_agent"]
+    },
+    {
+      "text": "我想了解无线耳机整体价格区间和竞品情况",
+      "template_id": "market_read_only.v1",
+      "approval_required": false,
+      "agents": ["market_agent"]
+    },
+    {
+      "text": "清华和哈工大哪个更好",
+      "template_id": "general_answer.v1",
+      "approval_required": false,
+      "agents": []
+    }
+  ],
+  "write_safety": [
+    "我要上架无线耳机",
+    "新增无线耳机，售价300元",
+    "我要上新无线耳机，库存800件",
+    "我要上架无线耳机，售价不确定，库存不知道"
+  ]
+}

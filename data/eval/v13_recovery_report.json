@@ -1,0 +1,49 @@
+{
+  "total": 7,
+  "passed": 7,
+  "recovery_pass_rate": 1.0,
+  "case_results": [
+    {
+      "case_id": "approval_resume",
+      "expected": "completed_browser_only",
+      "observed": "completed_browser_only",
+      "passed": true
+    },
+    {
+      "case_id": "side_effect_retry",
+      "expected": "completed_with_idempotent_replay",
+      "observed": "completed_with_idempotent_replay",
+      "passed": true
+    },
+    {
+      "case_id": "constraint_replan",
+      "expected": "completed_from_strategy",
+      "observed": "completed_from_strategy",
+      "passed": true
+    },
+    {
+      "case_id": "stale_checkpoint",
+      "expected": "StaleCheckpointError",
+      "observed": "StaleCheckpointError",
+      "passed": true
+    },
+    {
+      "case_id": "completed_task_rejected",
+      "expected": "RecoveryNotAllowedError",
+      "observed": "RecoveryNotAllowedError",
+      "passed": true
+    },
+    {
+      "case_id": "invalid_constraint_patch",
+      "expected": "RecoveryValidationError",
+      "observed": "RecoveryValidationError",
+      "passed": true
+    },
+    {
+      "case_id": "concurrent_resume_guard",
+      "expected": "RecoveryConflictError",
+      "observed": "RecoveryConflictError",
+      "passed": true
+    }
+  ]
+}
